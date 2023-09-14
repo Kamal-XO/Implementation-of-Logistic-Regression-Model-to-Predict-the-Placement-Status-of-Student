@@ -1,4 +1,4 @@
-# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+ # Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
@@ -8,22 +8,23 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-##STEPS INVOLVED
-###1.Data Preparation: The first step is to prepare the data for the model. This involves cleaning the data, handling missing values and outliers, and transforming the data into a suitable format for the model.
+## STEPS INVOLVED
+### 1.Data Preparation: The first step is to prepare the data for the model. This involves cleaning the data, handling missing values and outliers, and transforming the data into a suitable format for the model.
 
-###2.Split the data: Split the data into training and testing sets. The training set is used to fit the model, while the testing set is used to evaluate the model's performance.
+### 2.Split the data: Split the data into training and testing sets. The training set is used to fit the model, while the testing set is used to evaluate the model's performance.
 
-###3.Define the model: The next step is to define the logistic regression model. This involves selecting the appropriate features, specifying the regularization parameter, and defining the loss function.
+### 3.Define the model: The next step is to define the logistic regression model. This involves selecting the appropriate features, specifying the regularization parameter, and defining the loss function.
 
-###4.Train the model: Train the model using the training data. This involves minimizing the loss function by adjusting the model's parameters.
+### 4.Train the model: Train the model using the training data. This involves minimizing the loss function by adjusting the model's parameters.
 
-###5.Evaluate the model: Evaluate the model's performance using the testing data. This involves calculating the model's accuracy, precision, recall, and F1 score.
+### 5.Evaluate the model: Evaluate the model's performance using the testing data. This involves calculating the model's accuracy, precision, recall, and F1 score.
 
-###6.Tune the model: If the model's performance is not satisfactory, you can tune the model by adjusting the regularization parameter, selecting different features, or using a different algorithm.
+### 6.Tune the model: If the model's performance is not satisfactory, you can tune the model by adjusting the regularization parameter, selecting different features, or using a different algorithm.
 
-###7.Predict new data: Once the model is trained and tuned, you can use it to predict new data. This involves applying the model to the new data and obtaining the predicted outcomes.
+### 7.Predict new data: Once the model is trained and tuned, you can use it to predict new data. This involves applying the model to the new data and obtaining the predicted outcomes.
 
-###8.Interpret the results: Finally, you can interpret the model's results to gain insight into the relationship between the input variables and the output variable. This can help you understand the factors that influence the outcome and make informed decisions based on the results.
+### 8.Interpret the results: Finally, you can interpret the model's results to gain insight into the relationship between the input variables and the output variable. This can help you understand the factors that influence the outcome and make informed decisions based on the results.
+
 ## Program:
 ```
 /*
@@ -86,40 +87,40 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 */
 ```
 
-## Output:
+# Output:
 
-##1.Placement Data
+### 1.Placement Data
 ![output](./1.png)
 
-##2.Salary Data
+### 2.Salary Data
 ![outpu](./2.png)
 
-##3. Checking the null function()
+### 3. Checking the null function()
 ![output](./3.png)
 
-##4.Data Duplicate
+### 4.Data Duplicate
 ![output](./4.png)
 
-##5.Print Data
+### 5.Print Data
 ![output](./5.png)
 ![output](./6.png)
 
-##6.Data Status
+### 6.Data Status
 ![output](./7.png)
 
-##7.y_prediction array
+### 7.y_prediction array
 ![output](./8.png)
 
-##8.Accuracy value
+### 8.Accuracy value
 ![output](./9.png)
 
-##9.Confusion matrix
+### 9.Confusion matrix
 ![output](./10.png)
 
-##10.Classification Report
+### 10.Classification Report
 ![output](./11.png)
 
-##11.Prediction of LR
+### 11.Prediction of LR
 ![output](./12.png)
 
 ## Result:
