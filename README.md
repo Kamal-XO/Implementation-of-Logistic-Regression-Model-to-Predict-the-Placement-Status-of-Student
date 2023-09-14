@@ -91,26 +91,26 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ###1.Placement Data
 ![output](./1.png)
 ###2.Salary Data
-![outpu](./1.png)
+![outpu](./2.png)
 ###3. Checking the null function()
-![output](./1.png)
+![output](./3.png)
 ###4.Data Duplicate
-![output](./1.png)
+![output](./4.png)
 ###5.Print Data
-![output](./1.png)
-![output](./1.png)
+![output](./5.png)
+![output](./6.png)
 ###6.Data Status
-![output](./1.png)
+![output](./7.png)
 ###7.y_prediction array
-![output](./1.png)
+![output](./8.png)
 ###8.Accuracy value
-![output](./1.png)
+![output](./9.png)
 ###9.Confusion matrix
-![output](./1.png)
+![output](./10.png)
 ###10.Classification Report
-![output](./1.png)
+![output](./11.png)
 ###11.Prediction of LR
-![output](./1.png)
+![output](./12.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
