@@ -88,28 +88,38 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
-###1.Placement Data
+##1.Placement Data
 ![output](./1.png)
-###2.Salary Data
+
+##2.Salary Data
 ![outpu](./2.png)
-###3. Checking the null function()
+
+##3. Checking the null function()
 ![output](./3.png)
-###4.Data Duplicate
+
+##4.Data Duplicate
 ![output](./4.png)
-###5.Print Data
+
+##5.Print Data
 ![output](./5.png)
 ![output](./6.png)
-###6.Data Status
+
+##6.Data Status
 ![output](./7.png)
-###7.y_prediction array
+
+##7.y_prediction array
 ![output](./8.png)
-###8.Accuracy value
+
+##8.Accuracy value
 ![output](./9.png)
-###9.Confusion matrix
+
+##9.Confusion matrix
 ![output](./10.png)
-###10.Classification Report
+
+##10.Classification Report
 ![output](./11.png)
-###11.Prediction of LR
+
+##11.Prediction of LR
 ![output](./12.png)
 
 ## Result:
